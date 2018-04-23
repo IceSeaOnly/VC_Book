@@ -1,0 +1,2 @@
+{"amount":1313102.1269874368,"askAmount":6463.2,"askPrice":0.3158,"bidAmount":101.15,"bidPrice":0.3153,"close":0.3153,"count":651,"created":1524490635556,"createdTime":"2018-04-23 21:37:15","high":0.36,"id":5969854802,"low":0.2541,"mainId":0,"open":0.2541,"vol":435811.56070633215}
+{"amount":1345389.3269874367,"askAmount":9.31,"askPrice":0.3145,"bidAmount":6915.99,"bidPrice":0.3142,"close":0.3144,"count":672,"created":1524490692551,"createdTime":"2018-04-23 21:38:12","high":0.36,"id":5969893772,"low":0.2541,"mainId":0,"open":0.2541,"vol":445971.9830433321}
